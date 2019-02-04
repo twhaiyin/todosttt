@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <HelloWorld/>
+    <div>我是新内容</div>
   </div>
 </template>
 
